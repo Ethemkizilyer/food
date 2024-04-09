@@ -21,17 +21,10 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      },
-      "package": "com.ethmkzl.food"
+      }
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "52087d9f-2de5-486f-8252-65bf78f68b8c"
-      }
-    },
-    "owner": "ethmkzl"
+    }
   }
 }
